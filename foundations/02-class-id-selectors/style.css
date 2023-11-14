@@ -1,0 +1,15 @@
+.classone {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+#idone {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#idtwo {
+    background-color: #90ee90;
+    font-size: 36px;
+    font-weight: bold;
+}
